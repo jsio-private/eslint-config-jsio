@@ -20,6 +20,7 @@ module.exports = {
     }],
     'quotes': [2, 'single', 'avoid-escape'],
     'jsx-quotes': [2, 'prefer-single'],
+    'no-debugger': 1,
     'no-undef': 2,
     'no-undef-init': 2,
     'indent': [2, 2, {
